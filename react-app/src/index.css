@@ -1,8 +1,26 @@
-.student{
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    border: 2px solid black;
-    padding: 20px;
-    margin: 20px;
-    text-align: center;
-    background-color: lightblue;
+.welcome-meassage {
+  font-size: 20px;
+  color: green;
+  padding: 10px;
+  border: 2px solid green;  
+  border-radius: 5px;
+  background-color: #f0f8ff;
+  width: fit-content;
+  margin: 20px auto;
+  text-align: center;
+
+  
+}
+.signup-message{
+  font-size: 20px;
+  color: rgb(128, 0, 0);
+  padding: 10px;
+  border: 2px solid rgb(128, 0, 0);
+  border-radius: 5px;
+  background-color: #ffe4e1;
+  width: fit-content;
+  margin: 20px auto;
+  text-align: center;
+
+  
 }
